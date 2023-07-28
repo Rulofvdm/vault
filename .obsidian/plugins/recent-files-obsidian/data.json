@@ -1,0 +1,27 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Daily Template",
+      "path": "Templates/Daily Template.md"
+    },
+    {
+      "basename": "Weekly Template",
+      "path": "Templates/Weekly Template.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Templates/fileclass/Daily.md"
+    },
+    {
+      "basename": "2023-W30",
+      "path": "Journal/Weekly/2023-W30.md"
+    },
+    {
+      "basename": "Daily Habits",
+      "path": "Journal/Daily/Daily Habits.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
